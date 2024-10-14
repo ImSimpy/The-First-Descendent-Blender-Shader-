@@ -1,2 +1,4 @@
 # TFD-Blender-Shader
-Just a blender shader for TFD assets 
+
+> [!WARNING]
+>  You have to have some knowledge or Advanced Level on Blender to understand to use this shader 
