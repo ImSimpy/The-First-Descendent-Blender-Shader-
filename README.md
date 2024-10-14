@@ -1,5 +1,5 @@
 # TFD Blender Shader 
-
+𝐈𝐟 𝐲𝐨𝐮 𝐧𝐞𝐞𝐝 𝐡𝐞𝐥𝐩 𝐨𝐧 𝐟𝐢𝐧𝐝𝐢𝐧𝐠 𝐩𝐚𝐭𝐡𝐬 𝐨𝐟 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐡𝐞𝐫𝐞𝐬 𝐌𝐲 𝐏𝐚𝐭𝐡 𝐅𝐢𝐧𝐝𝐞𝐫 𝐟𝐨𝐫 𝐟𝐢𝐧𝐝𝐢𝐧𝐠 𝐃𝐞𝐬𝐜𝐞𝐧𝐝𝐚𝐧𝐭𝐬 𝐬𝐨𝐨𝐧 𝐢 𝐚𝐝𝐝 𝐬𝐤𝐢𝐧𝐬 𝐬𝐮𝐩𝐩𝐨𝐫𝐭
 
 > [!TIP]
 > If you need help on finding paths of something heres My Path Finder for finding Descendants soon i add skins support
